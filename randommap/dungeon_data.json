@@ -1,0 +1,11278 @@
+{
+  "metadata": {
+    "width": 70,
+    "height": 60,
+    "room_count": 7,
+    "path_length": 71
+  },
+  "entrance": {
+    "coordinates": [
+      7,
+      11
+    ],
+    "description": "던전 입구"
+  },
+  "exit": {
+    "coordinates": [
+      58,
+      28
+    ],
+    "description": "던전 출구"
+  },
+  "rooms": [
+    {
+      "id": 0,
+      "coordinates": [
+        20,
+        37
+      ],
+      "size": [
+        9,
+        8
+      ],
+      "center": [
+        24,
+        41
+      ],
+      "area": 72,
+      "description": "방 #1 (9x8)"
+    },
+    {
+      "id": 1,
+      "coordinates": [
+        5,
+        6
+      ],
+      "size": [
+        10,
+        9
+      ],
+      "center": [
+        10,
+        10
+      ],
+      "area": 90,
+      "description": "방 #2 (10x9)"
+    },
+    {
+      "id": 2,
+      "coordinates": [
+        27,
+        14
+      ],
+      "size": [
+        9,
+        15
+      ],
+      "center": [
+        31,
+        21
+      ],
+      "area": 135,
+      "description": "방 #3 (9x15)"
+    },
+    {
+      "id": 3,
+      "coordinates": [
+        53,
+        27
+      ],
+      "size": [
+        12,
+        15
+      ],
+      "center": [
+        59,
+        34
+      ],
+      "area": 180,
+      "description": "방 #4 (12x15)"
+    },
+    {
+      "id": 4,
+      "coordinates": [
+        57,
+        8
+      ],
+      "size": [
+        8,
+        14
+      ],
+      "center": [
+        61,
+        15
+      ],
+      "area": 112,
+      "description": "방 #5 (8x14)"
+    },
+    {
+      "id": 5,
+      "coordinates": [
+        5,
+        21
+      ],
+      "size": [
+        9,
+        15
+      ],
+      "center": [
+        9,
+        28
+      ],
+      "area": 135,
+      "description": "방 #6 (9x15)"
+    },
+    {
+      "id": 6,
+      "coordinates": [
+        43,
+        7
+      ],
+      "size": [
+        8,
+        12
+      ],
+      "center": [
+        47,
+        13
+      ],
+      "area": 96,
+      "description": "방 #7 (8x12)"
+    }
+  ],
+  "features": [
+    {
+      "type": "강한 몬스터",
+      "count": 18,
+      "locations": [
+        [
+          14,
+          6
+        ],
+        [
+          11,
+          7
+        ],
+        [
+          12,
+          12
+        ],
+        [
+          50,
+          12
+        ],
+        [
+          58,
+          12
+        ],
+        [
+          41,
+          13
+        ],
+        [
+          7,
+          24
+        ],
+        [
+          24,
+          24
+        ],
+        [
+          31,
+          24
+        ],
+        [
+          6,
+          28
+        ],
+        [
+          53,
+          29
+        ],
+        [
+          10,
+          30
+        ],
+        [
+          18,
+          32
+        ],
+        [
+          54,
+          36
+        ],
+        [
+          24,
+          37
+        ],
+        [
+          60,
+          37
+        ],
+        [
+          28,
+          41
+        ],
+        [
+          57,
+          41
+        ]
+      ],
+      "description": "높은 지대를 연결하는 다리 구조물"
+    },
+    {
+      "type": "비밀통로 힌트",
+      "count": 52,
+      "locations": [
+        [
+          12,
+          7
+        ],
+        [
+          49,
+          7
+        ],
+        [
+          63,
+          8
+        ],
+        [
+          12,
+          9
+        ],
+        [
+          43,
+          9
+        ],
+        [
+          47,
+          10
+        ],
+        [
+          10,
+          11
+        ],
+        [
+          44,
+          11
+        ],
+        [
+          30,
+          13
+        ],
+        [
+          49,
+          13
+        ],
+        [
+          58,
+          13
+        ],
+        [
+          31,
+          15
+        ],
+        [
+          61,
+          15
+        ],
+        [
+          64,
+          15
+        ],
+        [
+          52,
+          16
+        ],
+        [
+          32,
+          17
+        ],
+        [
+          63,
+          17
+        ],
+        [
+          27,
+          18
+        ],
+        [
+          30,
+          19
+        ],
+        [
+          6,
+          21
+        ],
+        [
+          13,
+          22
+        ],
+        [
+          26,
+          22
+        ],
+        [
+          48,
+          22
+        ],
+        [
+          9,
+          23
+        ],
+        [
+          30,
+          23
+        ],
+        [
+          5,
+          24
+        ],
+        [
+          26,
+          24
+        ],
+        [
+          30,
+          24
+        ],
+        [
+          30,
+          25
+        ],
+        [
+          6,
+          27
+        ],
+        [
+          7,
+          28
+        ],
+        [
+          18,
+          28
+        ],
+        [
+          20,
+          28
+        ],
+        [
+          28,
+          28
+        ],
+        [
+          34,
+          29
+        ],
+        [
+          9,
+          30
+        ],
+        [
+          61,
+          32
+        ],
+        [
+          12,
+          33
+        ],
+        [
+          57,
+          33
+        ],
+        [
+          58,
+          33
+        ],
+        [
+          20,
+          34
+        ],
+        [
+          40,
+          34
+        ],
+        [
+          51,
+          34
+        ],
+        [
+          54,
+          34
+        ],
+        [
+          64,
+          34
+        ],
+        [
+          22,
+          38
+        ],
+        [
+          64,
+          39
+        ],
+        [
+          24,
+          40
+        ],
+        [
+          22,
+          41
+        ],
+        [
+          55,
+          41
+        ],
+        [
+          22,
+          43
+        ],
+        [
+          26,
+          44
+        ]
+      ],
+      "description": "숨겨진 통로나 비밀의 단서가 있을 만한 지역"
+    },
+    {
+      "type": "보물",
+      "count": 15,
+      "locations": [
+        [
+          6,
+          8
+        ],
+        [
+          60,
+          14
+        ],
+        [
+          45,
+          17
+        ],
+        [
+          32,
+          22
+        ],
+        [
+          11,
+          23
+        ],
+        [
+          54,
+          29
+        ],
+        [
+          57,
+          30
+        ],
+        [
+          59,
+          35
+        ],
+        [
+          58,
+          36
+        ],
+        [
+          63,
+          36
+        ],
+        [
+          54,
+          37
+        ],
+        [
+          23,
+          41
+        ],
+        [
+          25,
+          41
+        ],
+        [
+          24,
+          42
+        ],
+        [
+          26,
+          43
+        ]
+      ],
+      "description": "귀중한 보물이 숨겨져 있을 만한 지역"
+    },
+    {
+      "type": "보스 몬스터",
+      "count": 2,
+      "locations": [
+        [
+          59,
+          9
+        ],
+        [
+          28,
+          15
+        ]
+      ],
+      "description": "일반적인 통로나 방"
+    },
+    {
+      "type": "입구",
+      "count": 1,
+      "locations": [
+        [
+          7,
+          11
+        ]
+      ],
+      "description": "던전의 입구. 모험이 시작되는 곳"
+    },
+    {
+      "type": "주경로",
+      "count": 69,
+      "locations": [
+        [
+          7,
+          12
+        ],
+        [
+          7,
+          13
+        ],
+        [
+          7,
+          14
+        ],
+        [
+          8,
+          14
+        ],
+        [
+          9,
+          14
+        ],
+        [
+          10,
+          14
+        ],
+        [
+          10,
+          15
+        ],
+        [
+          10,
+          16
+        ],
+        [
+          10,
+          17
+        ],
+        [
+          10,
+          18
+        ],
+        [
+          10,
+          19
+        ],
+        [
+          10,
+          20
+        ],
+        [
+          10,
+          21
+        ],
+        [
+          11,
+          21
+        ],
+        [
+          12,
+          21
+        ],
+        [
+          13,
+          21
+        ],
+        [
+          14,
+          21
+        ],
+        [
+          15,
+          21
+        ],
+        [
+          16,
+          21
+        ],
+        [
+          17,
+          21
+        ],
+        [
+          18,
+          21
+        ],
+        [
+          19,
+          21
+        ],
+        [
+          20,
+          21
+        ],
+        [
+          21,
+          21
+        ],
+        [
+          22,
+          21
+        ],
+        [
+          23,
+          21
+        ],
+        [
+          24,
+          21
+        ],
+        [
+          25,
+          21
+        ],
+        [
+          26,
+          21
+        ],
+        [
+          27,
+          21
+        ],
+        [
+          28,
+          21
+        ],
+        [
+          29,
+          21
+        ],
+        [
+          30,
+          21
+        ],
+        [
+          31,
+          21
+        ],
+        [
+          32,
+          21
+        ],
+        [
+          33,
+          21
+        ],
+        [
+          34,
+          21
+        ],
+        [
+          35,
+          21
+        ],
+        [
+          36,
+          21
+        ],
+        [
+          37,
+          21
+        ],
+        [
+          38,
+          21
+        ],
+        [
+          39,
+          21
+        ],
+        [
+          40,
+          21
+        ],
+        [
+          41,
+          21
+        ],
+        [
+          42,
+          21
+        ],
+        [
+          43,
+          21
+        ],
+        [
+          44,
+          21
+        ],
+        [
+          45,
+          21
+        ],
+        [
+          46,
+          21
+        ],
+        [
+          47,
+          21
+        ],
+        [
+          48,
+          21
+        ],
+        [
+          49,
+          21
+        ],
+        [
+          50,
+          21
+        ],
+        [
+          51,
+          21
+        ],
+        [
+          52,
+          21
+        ],
+        [
+          53,
+          21
+        ],
+        [
+          54,
+          21
+        ],
+        [
+          55,
+          21
+        ],
+        [
+          56,
+          21
+        ],
+        [
+          57,
+          21
+        ],
+        [
+          58,
+          21
+        ],
+        [
+          59,
+          21
+        ],
+        [
+          59,
+          22
+        ],
+        [
+          59,
+          23
+        ],
+        [
+          59,
+          24
+        ],
+        [
+          59,
+          25
+        ],
+        [
+          59,
+          26
+        ],
+        [
+          59,
+          27
+        ],
+        [
+          59,
+          28
+        ]
+      ],
+      "description": "입구에서 출구로 이어지는 주요 경로"
+    },
+    {
+      "type": "출구",
+      "count": 1,
+      "locations": [
+        [
+          58,
+          28
+        ]
+      ],
+      "description": "던전의 출구. 목표 지점"
+    }
+  ],
+  "terrain": [
+    {
+      "coordinates": [
+        5,
+        6
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        6
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        6
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        6
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        6
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        6
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        6
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        6
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        6
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        6
+      ],
+      "height": 6,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        7
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        7
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        7
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        7
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        7
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        7
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        7
+      ],
+      "height": 5,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        7
+      ],
+      "height": 5,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        7
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        7
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        7
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        7
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        7
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        7
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        7
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        7
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        7
+      ],
+      "height": 17,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        7
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        8
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        8
+      ],
+      "height": 6,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        8
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        8
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        8
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        8
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        8
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        8
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        8
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        8
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        8
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        8
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        8
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        8
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        8
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        8
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        8
+      ],
+      "height": 17,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        8
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        9
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        9
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        9
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        9
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        9
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        9
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        9
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        9
+      ],
+      "height": 6,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        9
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        9
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        9
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        9
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        9
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        9
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        9
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        9
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        9
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        9
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        9
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        9
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        9
+      ],
+      "height": 15,
+      "feature": "보스 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        9
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        9
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        9
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        9
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        9
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        10
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        10
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        10
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        10
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        10
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        10
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        10
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        10
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        10
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        10
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        10
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        10
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        10
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        10
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        10
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        10
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        10
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        10
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        10
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        10
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        10
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        10
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        10
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        10
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        10
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        10
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        11
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        11
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        11
+      ],
+      "height": 5,
+      "feature": "입구",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        11
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        11
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        11
+      ],
+      "height": 6,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        11
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        11
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        11
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        15,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        16,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        17,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        18,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        19,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        11
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        11
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        11
+      ],
+      "height": 15,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        11
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        11
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        11
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        11
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        11
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        11
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        11
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        11
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        11
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        11
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        11
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        11
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        11
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        11
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        12
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        12
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        12
+      ],
+      "height": 5,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        12
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        12
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        12
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        12
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        12
+      ],
+      "height": 6,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        12
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        12
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        12
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        12
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        12
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        12
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        12
+      ],
+      "height": 15,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        12
+      ],
+      "height": 16,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        12
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        12
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        12
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        13
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        13
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        13
+      ],
+      "height": 6,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        13
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        13
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        13
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        13
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        13
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        13
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        13
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        13
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        36,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        37,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        38,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        39,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        40,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        41,
+        13
+      ],
+      "height": 4,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        42,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        13
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        13
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        13
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        13
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        13
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        13
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        13
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        13
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        13
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        13
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        13
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        13
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        13
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        13
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        13
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        13
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        14
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        14
+      ],
+      "height": 7,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        14
+      ],
+      "height": 6,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        14
+      ],
+      "height": 5,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        14
+      ],
+      "height": 5,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        14
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        14
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        14
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        14
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        14
+      ],
+      "height": 6,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        14
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        14
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        14
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        14
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        14
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        14
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        14
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        14
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        14
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        14
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        14
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        14
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        14
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        14
+      ],
+      "height": 15,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        14
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        14
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        14
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        15
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        15
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        15
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        15
+      ],
+      "height": 2,
+      "feature": "보스 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        15
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        15
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        15
+      ],
+      "height": 1,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        15
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        15
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        15
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        15
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        41,
+        15
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        15
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        15
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        15
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        15
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        15
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        15
+      ],
+      "height": 15,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        16
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        16
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        16
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        16
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        16
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        16
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        16
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        16
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        16
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        16
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        40,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        41,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        42,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        16
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        16
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        16
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        16
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        16
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        16
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        51,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        52,
+        16
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        16
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        16
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        16
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        16
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        16
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        16
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        16
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        16
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        17
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        17
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        17
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        17
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        17
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        17
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        17
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        17
+      ],
+      "height": 1,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        17
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        17
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        17
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        36,
+        17
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        37,
+        17
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        38,
+        17
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        39,
+        17
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        40,
+        17
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        17
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        17
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        17
+      ],
+      "height": 15,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        17
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        17
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        17
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        17
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        17
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        17
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        17
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        17
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        17
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        17
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        17
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        17
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        17
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        18
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        18
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        18
+      ],
+      "height": 2,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        18
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        18
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        18
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        18
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        18
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        18
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        18
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        18
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        18
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        18
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        18
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        18
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        18
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        18
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        18
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        18
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        18
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        18
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        18
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        18
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        18
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        18
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        18
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        18
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        19
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        19
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        19
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        19
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        19
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        19
+      ],
+      "height": 2,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        19
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        19
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        19
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        19
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        19
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        19
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        19
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        19
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        19
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        19
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        19
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        19
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        19
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        19
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        20
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        20
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        20
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        20
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        20
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        20
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        20
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        20
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        20
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        20
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        20
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        20
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        20
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        20
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        20
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        20
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        20
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        20
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        20
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        20
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        21
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        21
+      ],
+      "height": 15,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        21
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        21
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        21
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        15,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        16,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        17,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        18,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        19,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        21
+      ],
+      "height": 3,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        21
+      ],
+      "height": 2,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        21
+      ],
+      "height": 2,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        21
+      ],
+      "height": 1,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        21
+      ],
+      "height": 2,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        21
+      ],
+      "height": 1,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        21
+      ],
+      "height": 1,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        21
+      ],
+      "height": 1,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        21
+      ],
+      "height": 3,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        36,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        37,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        38,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        39,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        40,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        41,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        42,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        51,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        52,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        21
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        21
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        21
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        21
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        21
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        21
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        22
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        22
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        22
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        22
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        22
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        22
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        22
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        22
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        22
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        22
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        22
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        22
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        22
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        22
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        22
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        22
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        22
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        22
+      ],
+      "height": 2,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        22
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        22
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        22
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        22
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        22
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        23
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        23
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        23
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        23
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        23
+      ],
+      "height": 15,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        23
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        23
+      ],
+      "height": 16,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        23
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        23
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        23
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        23
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        23
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        23
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        23
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        23
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        23
+      ],
+      "height": 1,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        23
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        23
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        23
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        23
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        23
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        23
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        23
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        24
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        24
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        24
+      ],
+      "height": 16,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        24
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        24
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        24
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        24
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        24
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        24
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        24
+      ],
+      "height": 4,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        24
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        24
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        24
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        24
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        24
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        24
+      ],
+      "height": 1,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        24
+      ],
+      "height": 1,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        24
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        24
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        24
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        24
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        24
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        24
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        25
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        25
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        25
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        25
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        25
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        25
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        25
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        25
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        25
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        25
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        25
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        25
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        25
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        25
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        25
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        25
+      ],
+      "height": 2,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        25
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        25
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        25
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        25
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        25
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        25
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        25
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        26
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        26
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        26
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        26
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        26
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        26
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        26
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        26
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        26
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        26
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        26
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        26
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        26
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        26
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        26
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        26
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        26
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        26
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        26
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        26
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        26
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        26
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        26
+      ],
+      "height": 4,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        27
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        27
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        27
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        27
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        27
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        27
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        27
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        27
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        27
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        27
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        27
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        27
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        27
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        27
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        27
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        27
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        27
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        27
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        27
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        27
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        27
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        27
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        27
+      ],
+      "height": 2,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        27
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        27
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        27
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        28
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        28
+      ],
+      "height": 15,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        28
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        28
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        28
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        28
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        28
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        28
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        15,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        16,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        17,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        18,
+        28
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        19,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        28
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        28
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        28
+      ],
+      "height": 2,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        28
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        28
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        28
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        28
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        28
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        28
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        28
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        28
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        28
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        28
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        28
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        28
+      ],
+      "height": 1,
+      "feature": "출구",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        28
+      ],
+      "height": 1,
+      "feature": "주경로",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        28
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        28
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        29
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        29
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        29
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        29
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        29
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        29
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        29
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        29
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        15,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        16,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        17,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        18,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        19,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        29
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        36,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        37,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        38,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        39,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        40,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        41,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        42,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        29
+      ],
+      "height": 5,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        29
+      ],
+      "height": 4,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        29
+      ],
+      "height": 1,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        29
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        29
+      ],
+      "height": 2,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        29
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        29
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        29
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        29
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        30
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        30
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        30
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        30
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        30
+      ],
+      "height": 16,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        30
+      ],
+      "height": 16,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        30
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        30
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        30
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        30
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        30
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        30
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        30
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        30
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        30
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        30
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        30
+      ],
+      "height": 3,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        30
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        30
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        30
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        30
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        30
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        30
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        30
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        31
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        31
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        31
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        31
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        31
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        31
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        31
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        31
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        31
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        31
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        31
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        31
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        31
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        31
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        31
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        31
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        31
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        31
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        31
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        31
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        31
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        31
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        31
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        31
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        32
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        32
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        32
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        32
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        32
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        32
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        32
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        32
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        32
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        15,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        16,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        17,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        18,
+        32
+      ],
+      "height": 4,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        19,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        32
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        32
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        32
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        32
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        32
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        32
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        32
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        32
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        33
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        33
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        33
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        33
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        33
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        33
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        33
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        33
+      ],
+      "height": 15,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        33
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        33
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        33
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        33
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        33
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        33
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        33
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        33
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        33
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        33
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        33
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        33
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        33
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        33
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        33
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        34
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        34
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        34
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        34
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        34
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        34
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        34
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        34
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        14,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        15,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        16,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        17,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        18,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        19,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        34
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        29,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        30,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        31,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        32,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        33,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        34,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        35,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        36,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        37,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        38,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        39,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        40,
+        34
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        41,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        42,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        43,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        44,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        45,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        46,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        47,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        48,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        49,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        50,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        51,
+        34
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        52,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        34
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        34
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        34
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        34
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        34
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        5,
+        35
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        6,
+        35
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        7,
+        35
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        8,
+        35
+      ],
+      "height": 15,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        9,
+        35
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        10,
+        35
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        11,
+        35
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        12,
+        35
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        13,
+        35
+      ],
+      "height": 16,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        35
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        35
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        35
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        35
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        35
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        35
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        35
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        35
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        35
+      ],
+      "height": 3,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        35
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        35
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        35
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        35
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        35
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        36
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        36
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        36
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        36
+      ],
+      "height": 4,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        36
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        36
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        36
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        36
+      ],
+      "height": 3,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        36
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        36
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        36
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        36
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        36
+      ],
+      "height": 3,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        36
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        37
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        37
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        37
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        37
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        37
+      ],
+      "height": 4,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        37
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        37
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        37
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        37
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        37
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        37
+      ],
+      "height": 4,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        37
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        37
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        37
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        37
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        37
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        37
+      ],
+      "height": 4,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        37
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        37
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        37
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        37
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        38
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        38
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        38
+      ],
+      "height": 18,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        38
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        38
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        38
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        38
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        38
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        38
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        38
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        38
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        38
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        38
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        38
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        38
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        38
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        38
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        38
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        38
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        38
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        38
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        39
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        39
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        39
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        39
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        39
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        39
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        39
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        39
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        39
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        39
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        39
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        39
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        39
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        39
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        39
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        39
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        39
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        39
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        39
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        39
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        39
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        40
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        40
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        40
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        40
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        40
+      ],
+      "height": 17,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        40
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        40
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        40
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        40
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        40
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        40
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        40
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        40
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        40
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        40
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        40
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        40
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        40
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        40
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        40
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        40
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        41
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        41
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        41
+      ],
+      "height": 17,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        41
+      ],
+      "height": 18,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        41
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        41
+      ],
+      "height": 17,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        41
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        41
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        41
+      ],
+      "height": 18,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        53,
+        41
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        54,
+        41
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        55,
+        41
+      ],
+      "height": 4,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        56,
+        41
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        57,
+        41
+      ],
+      "height": 3,
+      "feature": "강한 몬스터",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        58,
+        41
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        59,
+        41
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        60,
+        41
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        61,
+        41
+      ],
+      "height": 5,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        62,
+        41
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        63,
+        41
+      ],
+      "height": 4,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        64,
+        41
+      ],
+      "height": 3,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        42
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        42
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        42
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        42
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        42
+      ],
+      "height": 18,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        42
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        42
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        42
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        42
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        43
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        43
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        43
+      ],
+      "height": 18,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        43
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        43
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        43
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        43
+      ],
+      "height": 18,
+      "feature": "보물",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        43
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        43
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        20,
+        44
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        21,
+        44
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        22,
+        44
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        23,
+        44
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        24,
+        44
+      ],
+      "height": 18,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        25,
+        44
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        26,
+        44
+      ],
+      "height": 19,
+      "feature": "비밀통로 힌트",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        27,
+        44
+      ],
+      "height": 19,
+      "feature": "일반",
+      "passable": true
+    },
+    {
+      "coordinates": [
+        28,
+        44
+      ],
+      "height": 17,
+      "feature": "일반",
+      "passable": true
+    }
+  ],
+  "path": [
+    [
+      7,
+      11
+    ],
+    [
+      7,
+      12
+    ],
+    [
+      7,
+      13
+    ],
+    [
+      7,
+      14
+    ],
+    [
+      8,
+      14
+    ],
+    [
+      9,
+      14
+    ],
+    [
+      10,
+      14
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      10,
+      16
+    ],
+    [
+      10,
+      17
+    ],
+    [
+      10,
+      18
+    ],
+    [
+      10,
+      19
+    ],
+    [
+      10,
+      20
+    ],
+    [
+      10,
+      21
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      12,
+      21
+    ],
+    [
+      13,
+      21
+    ],
+    [
+      14,
+      21
+    ],
+    [
+      15,
+      21
+    ],
+    [
+      16,
+      21
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      18,
+      21
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      20,
+      21
+    ],
+    [
+      21,
+      21
+    ],
+    [
+      22,
+      21
+    ],
+    [
+      23,
+      21
+    ],
+    [
+      24,
+      21
+    ],
+    [
+      25,
+      21
+    ],
+    [
+      26,
+      21
+    ],
+    [
+      27,
+      21
+    ],
+    [
+      28,
+      21
+    ],
+    [
+      29,
+      21
+    ],
+    [
+      30,
+      21
+    ],
+    [
+      31,
+      21
+    ],
+    [
+      32,
+      21
+    ],
+    [
+      33,
+      21
+    ],
+    [
+      34,
+      21
+    ],
+    [
+      35,
+      21
+    ],
+    [
+      36,
+      21
+    ],
+    [
+      37,
+      21
+    ],
+    [
+      38,
+      21
+    ],
+    [
+      39,
+      21
+    ],
+    [
+      40,
+      21
+    ],
+    [
+      41,
+      21
+    ],
+    [
+      42,
+      21
+    ],
+    [
+      43,
+      21
+    ],
+    [
+      44,
+      21
+    ],
+    [
+      45,
+      21
+    ],
+    [
+      46,
+      21
+    ],
+    [
+      47,
+      21
+    ],
+    [
+      48,
+      21
+    ],
+    [
+      49,
+      21
+    ],
+    [
+      50,
+      21
+    ],
+    [
+      51,
+      21
+    ],
+    [
+      52,
+      21
+    ],
+    [
+      53,
+      21
+    ],
+    [
+      54,
+      21
+    ],
+    [
+      55,
+      21
+    ],
+    [
+      56,
+      21
+    ],
+    [
+      57,
+      21
+    ],
+    [
+      58,
+      21
+    ],
+    [
+      59,
+      21
+    ],
+    [
+      59,
+      22
+    ],
+    [
+      59,
+      23
+    ],
+    [
+      59,
+      24
+    ],
+    [
+      59,
+      25
+    ],
+    [
+      59,
+      26
+    ],
+    [
+      59,
+      27
+    ],
+    [
+      59,
+      28
+    ],
+    [
+      58,
+      28
+    ]
+  ],
+  "monsters": [
+    {
+      "name": "고블린",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 6,
+      "attack": 3,
+      "position": [
+        22,
+        43
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "오거",
+      "type": "강한 몬스터",
+      "level": 9,
+      "hp": 61,
+      "attack": 13,
+      "position": [
+        12,
+        12
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "데몬 로드",
+      "type": "보스 몬스터",
+      "level": 15,
+      "hp": 128,
+      "attack": 23,
+      "position": [
+        28,
+        15
+      ],
+      "symbol": "B",
+      "description": "던전의 주인으로 극도로 위험한 보스급 몬스터"
+    },
+    {
+      "name": "트롤",
+      "type": "강한 몬스터",
+      "level": 7,
+      "hp": 37,
+      "attack": 8,
+      "position": [
+        60,
+        37
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "리치 킹",
+      "type": "보스 몬스터",
+      "level": 15,
+      "hp": 117,
+      "attack": 22,
+      "position": [
+        59,
+        9
+      ],
+      "symbol": "B",
+      "description": "던전의 주인으로 극도로 위험한 보스급 몬스터"
+    },
+    {
+      "name": "미노타우로스",
+      "type": "강한 몬스터",
+      "level": 7,
+      "hp": 37,
+      "attack": 12,
+      "position": [
+        10,
+        30
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 3,
+      "hp": 6,
+      "attack": 4,
+      "position": [
+        47,
+        10
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "가고일",
+      "type": "강한 몬스터",
+      "level": 6,
+      "hp": 53,
+      "attack": 12,
+      "position": [
+        14,
+        6
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "오거",
+      "type": "강한 몬스터",
+      "level": 7,
+      "hp": 39,
+      "attack": 11,
+      "position": [
+        11,
+        7
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "쥐",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 10,
+      "attack": 2,
+      "position": [
+        49,
+        7
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 7,
+      "attack": 3,
+      "position": [
+        44,
+        11
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "가고일",
+      "type": "강한 몬스터",
+      "level": 6,
+      "hp": 61,
+      "attack": 11,
+      "position": [
+        50,
+        12
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "미노타우로스",
+      "type": "강한 몬스터",
+      "level": 7,
+      "hp": 51,
+      "attack": 15,
+      "position": [
+        58,
+        12
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "스켈레톤",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 5,
+      "attack": 2,
+      "position": [
+        30,
+        13
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "리치",
+      "type": "강한 몬스터",
+      "level": 6,
+      "hp": 53,
+      "attack": 9,
+      "position": [
+        41,
+        13
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "고블린",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 5,
+      "attack": 1,
+      "position": [
+        49,
+        13
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 13,
+      "attack": 2,
+      "position": [
+        58,
+        13
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "쥐",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 6,
+      "attack": 1,
+      "position": [
+        31,
+        15
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "스켈레톤",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 11,
+      "attack": 2,
+      "position": [
+        64,
+        15
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "박쥐",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 7,
+      "attack": 4,
+      "position": [
+        32,
+        17
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "쥐",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 5,
+      "attack": 2,
+      "position": [
+        63,
+        17
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 3,
+      "hp": 11,
+      "attack": 4,
+      "position": [
+        27,
+        18
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "박쥐",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 12,
+      "attack": 4,
+      "position": [
+        30,
+        19
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "박쥐",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 7,
+      "attack": 3,
+      "position": [
+        48,
+        22
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 3,
+      "hp": 5,
+      "attack": 1,
+      "position": [
+        30,
+        23
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 5,
+      "attack": 3,
+      "position": [
+        5,
+        24
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "미노타우로스",
+      "type": "강한 몬스터",
+      "level": 9,
+      "hp": 46,
+      "attack": 10,
+      "position": [
+        7,
+        24
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "가고일",
+      "type": "강한 몬스터",
+      "level": 10,
+      "hp": 44,
+      "attack": 14,
+      "position": [
+        24,
+        24
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "박쥐",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 8,
+      "attack": 2,
+      "position": [
+        30,
+        24
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "미노타우로스",
+      "type": "강한 몬스터",
+      "level": 10,
+      "hp": 46,
+      "attack": 8,
+      "position": [
+        31,
+        24
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "박쥐",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 10,
+      "attack": 1,
+      "position": [
+        6,
+        27
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "가고일",
+      "type": "강한 몬스터",
+      "level": 10,
+      "hp": 53,
+      "attack": 11,
+      "position": [
+        6,
+        28
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "고블린",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 15,
+      "attack": 4,
+      "position": [
+        18,
+        28
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "스켈레톤",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 9,
+      "attack": 3,
+      "position": [
+        20,
+        28
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 3,
+      "hp": 13,
+      "attack": 4,
+      "position": [
+        28,
+        28
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 15,
+      "attack": 4,
+      "position": [
+        34,
+        29
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "오거",
+      "type": "강한 몬스터",
+      "level": 6,
+      "hp": 54,
+      "attack": 14,
+      "position": [
+        53,
+        29
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "쥐",
+      "type": "약한 몬스터",
+      "level": 3,
+      "hp": 13,
+      "attack": 1,
+      "position": [
+        9,
+        30
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "가고일",
+      "type": "강한 몬스터",
+      "level": 10,
+      "hp": 44,
+      "attack": 12,
+      "position": [
+        18,
+        32
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "고블린",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 7,
+      "attack": 4,
+      "position": [
+        40,
+        34
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 12,
+      "attack": 3,
+      "position": [
+        51,
+        34
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "박쥐",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 13,
+      "attack": 2,
+      "position": [
+        54,
+        34
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "고블린",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 8,
+      "attack": 4,
+      "position": [
+        64,
+        34
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "트롤",
+      "type": "강한 몬스터",
+      "level": 9,
+      "hp": 49,
+      "attack": 9,
+      "position": [
+        54,
+        36
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "가고일",
+      "type": "강한 몬스터",
+      "level": 7,
+      "hp": 68,
+      "attack": 12,
+      "position": [
+        24,
+        37
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "고블린",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 14,
+      "attack": 4,
+      "position": [
+        22,
+        38
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "슬라임",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 11,
+      "attack": 4,
+      "position": [
+        64,
+        39
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "고블린",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 6,
+      "attack": 4,
+      "position": [
+        22,
+        41
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "오거",
+      "type": "강한 몬스터",
+      "level": 8,
+      "hp": 57,
+      "attack": 8,
+      "position": [
+        28,
+        41
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "박쥐",
+      "type": "약한 몬스터",
+      "level": 2,
+      "hp": 10,
+      "attack": 4,
+      "position": [
+        55,
+        41
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    },
+    {
+      "name": "트롤",
+      "type": "강한 몬스터",
+      "level": 8,
+      "hp": 42,
+      "attack": 10,
+      "position": [
+        57,
+        41
+      ],
+      "symbol": "S",
+      "description": "강력한 실력이 필요한 위험한 몬스터"
+    },
+    {
+      "name": "스켈레톤",
+      "type": "약한 몬스터",
+      "level": 1,
+      "hp": 12,
+      "attack": 2,
+      "position": [
+        26,
+        44
+      ],
+      "symbol": "m",
+      "description": "초보 모험가도 처치할 수 있는 약한 몬스터"
+    }
+  ]
+}
